@@ -1,4 +1,4 @@
-module github.com/WCUOOA/my_go
+module github.com/WCUOOA/goland
 
 go 1.23.1
 
